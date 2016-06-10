@@ -1,0 +1,1043 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"pos",
+				"postData〔variable〕"
+			],
+			[
+				"typ",
+				"typeof〔keyword〕"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"pr",
+				"print〔function〕"
+			],
+			[
+				"pe",
+				"persons"
+			],
+			[
+				"J",
+				"JsonResponse"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"cons",
+				"const〔keyword〕"
+			],
+			[
+				"s",
+				"section"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"ht",
+				"html	html"
+			],
+			[
+				"reu",
+				"return"
+			],
+			[
+				"RE",
+				"RequestContext"
+			],
+			[
+				"ge",
+				"get_template"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"is",
+				"instance"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"sh",
+				"short_name"
+			],
+			[
+				"P",
+				"Person"
+			],
+			[
+				"for",
+				"form_edit"
+			],
+			[
+				"mo",
+				"model"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"ph",
+				"photo"
+			],
+			[
+				"im",
+				"imagePressed"
+			],
+			[
+				"G",
+				"Greeting"
+			],
+			[
+				"T",
+				"TouchableHighlight"
+			],
+			[
+				"ima",
+				"image"
+			],
+			[
+				"loa",
+				"loadingMore"
+			],
+			[
+				"lo",
+				"loadingMore"
+			],
+			[
+				"p",
+				"photos"
+			],
+			[
+				"_",
+				"_onEndReached"
+			],
+			[
+				"on",
+				"onEndReached"
+			],
+			[
+				"I",
+				"IMAGE_SIZE"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"i",
+				"imagePressed"
+			],
+			[
+				"pho",
+				"photos"
+			],
+			[
+				"ren",
+				"renderPhoto"
+			],
+			[
+				"rende",
+				"renderLoadingView"
+			],
+			[
+				"res",
+				"responseData"
+			],
+			[
+				"Ima",
+				"IMAGE2"
+			],
+			[
+				"Im",
+				"IMAGE1"
+			],
+			[
+				"ma",
+				"marginBottom"
+			],
+			[
+				"bu",
+				"buttonView"
+			],
+			[
+				"but",
+				"buttonText"
+			],
+			[
+				"sty",
+				"styles〔variable〕"
+			],
+			[
+				"To",
+				"TouchableHighlight"
+			],
+			[
+				"Naviga",
+				"Navigation"
+			],
+			[
+				"na",
+				"navigator"
+			],
+			[
+				"c",
+				"container"
+			],
+			[
+				"Na",
+				"Navigator"
+			],
+			[
+				"rend",
+				"renderMovie"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"err",
+				"err"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"data",
+				"dataType"
+			],
+			[
+				"han",
+				"handleCommentSubmit"
+			],
+			[
+				"get",
+				"getInitialState"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"e",
+				"err"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"Co",
+				"Comment"
+			],
+			[
+				"pro",
+				"props"
+			],
+			[
+				"cone",
+				"commentNodes"
+			],
+			[
+				"C",
+				"CommentList"
+			],
+			[
+				"new",
+				"new_job_code"
+			],
+			[
+				"try",
+				"try"
+			],
+			[
+				"ne",
+				"new_job_code"
+			],
+			[
+				"code",
+				"code_digit_sum"
+			],
+			[
+				"nw",
+				"new_job_code"
+			],
+			[
+				"su",
+				"sum_digits"
+			],
+			[
+				"jo",
+				"job_codes"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"ur",
+				"url_data"
+			],
+			[
+				"sy",
+				"sys_path"
+			],
+			[
+				"tr",
+				"try	Try/Except"
+			],
+			[
+				"jobs",
+				"jobs_added"
+			],
+			[
+				"mode",
+				"models"
+			],
+			[
+				"po",
+				"post"
+			],
+			[
+				"PO",
+				"POST"
+			],
+			[
+				"end",
+				"endfor"
+			],
+			[
+				"comme",
+				"comments"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"com",
+				"comments_list"
+			],
+			[
+				"Comment",
+				"Comment"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"mod",
+				"models"
+			],
+			[
+				"au",
+				"auto_now_add"
+			],
+			[
+				"Pos",
+				"PostManager"
+			],
+			[
+				"DI",
+				"div	Tag"
+			],
+			[
+				"blo",
+				"blog"
+			],
+			[
+				"blog",
+				"blog_list"
+			],
+			[
+				"sl",
+				"slugify"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"dj",
+				"dj_database_url"
+			],
+			[
+				"Loca",
+				"LOCAL_APPS"
+			],
+			[
+				"Dja",
+				"DJANGO_APPS"
+			],
+			[
+				"Da",
+				"Djando"
+			],
+			[
+				"as",
+				"assertContains"
+			],
+			[
+				"pas",
+				"past_question"
+			],
+			[
+				"que",
+				"question"
+			],
+			[
+				"qu",
+				"question_text"
+			],
+			[
+				"crea",
+				"create_question"
+			],
+			[
+				"pa",
+				"Past"
+			],
+			[
+				"QUe",
+				"Question"
+			],
+			[
+				"la",
+				"latest_question_list"
+			],
+			[
+				"pub",
+				"pub_date"
+			],
+			[
+				"time",
+				"timedelta"
+			],
+			[
+				"pu",
+				"published"
+			],
+			[
+				"tim",
+				"time"
+			],
+			[
+				"ol",
+				"old_question"
+			],
+			[
+				"ti",
+				"time"
+			],
+			[
+				"wh",
+				"whose"
+			],
+			[
+				"datet",
+				"datetime"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"home",
+				"home"
+			],
+			[
+				"DE",
+				"DetailView"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"htt",
+				"HttpResponse"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lib/router.js",
+			"settings":
+			{
+				"buffer_size": 675,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/views/posts/post_page.html",
+			"settings":
+			{
+				"buffer_size": 59,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/views/application/layout.html",
+			"settings":
+			{
+				"buffer_size": 351,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/main.js",
+			"settings":
+			{
+				"buffer_size": 29,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/views/includes/loading.html",
+			"settings":
+			{
+				"buffer_size": 56,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/views/posts/post_item.html",
+			"settings":
+			{
+				"buffer_size": 319,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/main.html",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/server/fixtures.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/lib/router.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/application/layout.html",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_list.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/server/publications.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/main.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/stylesheets/style.css",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/lib/collections/posts.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_item.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_item.html",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_list.html",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/main.css",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/server/main.js",
+		"/C/Users/uapasha/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Dropbox/kottans/js-kottans-hw/hw2/form.html",
+		"/C/Dropbox/kottans/js-kottans-hw/.gitignore",
+		"/C/Dropbox/kottans/js-kottans-hw/.gitigmore",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/.meteor/versions",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/.meteor/packages",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/.meteor/.id",
+		"/C/Dropbox/python-stuff/tasks/swdev_homeworks/homework4_fixed/README.md",
+		"/C/Users/uapasha/~./bashrc",
+		"/C/Users/uapasha/fullstack/vagrant/Vagrantfile",
+		"/C/Dropbox/python-stuff/DS&ML/Kyivstar/solution.py",
+		"/C/Dropbox/python-stuff/tasks/taabs/taabs/manage.py",
+		"/C/Dropbox/python-stuff/pbrunko/homework2/access.log",
+		"/C/Users/uapasha/fullstack/vagrant/django/django-stuff/example/persons/views.py",
+		"/C/Dropbox/kottans/workshops/postcss-workshop/style2.css",
+		"/C/Dropbox/kottans/workshops/postcss-workshop/index.js",
+		"/C/Dropbox/kottans/workshops/postcss-workshop/blend-mode.html",
+		"/C/Dropbox/kottans/workshops/postcss-workshop/plugin.js",
+		"/C/Dropbox/kottans/workshops/postcss-workshop/first/plugin.js",
+		"/C/Dropbox/kottans/workshops/postcss-workshop/index.html",
+		"/C/Users/uapasha/Desktop/kottans2.html",
+		"/C/Dropbox/kottans/js-kottans-hw/hw1/markup.html",
+		"/C/Users/uapasha/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Dropbox/kottans/workshops/postcss-workshop/package.json",
+		"/C/Users/uapasha/AppData/Roaming/Sublime Text 2/Packages/User/HTML.sublime-settings",
+		"/C/Users/uapasha/Desktop/interview.js",
+		"/C/Users/uapasha/Desktop/kottansCSS1.css",
+		"/C/Users/uapasha/Desktop/some.js",
+		"/C/Users/uapasha/Desktop/kottansCSS1.scc",
+		"/C/Dropbox/kottans/JS2016-3-/README.md",
+		"/C/Users/uapasha/fullstack/vagrant/django/django-stuff/example/example/urls.py",
+		"/C/Users/uapasha/fullstack/vagrant/django/django-stuff/example/persons/models.py",
+		"/D/Native/android/ImageGallery/index.android.js",
+		"/D/Native/android/ImageGallery/FullPageView.js",
+		"/D/Native/android/ImageGallery/Gallery.js",
+		"/D/Native/android/AwesomeProject/index.android.js",
+		"/D/Native/react-native/Examples/Movies/MoviesApp.android.js",
+		"/D/Native/android/ImageGallery/Gallety.js",
+		"/C/Dropbox/react-tutorial-master/public/index.html",
+		"/C/Dropbox/programming/kotans/uapasha.github.io/js/script.js",
+		"/C/Dropbox/android/AwesomeProject/index.android.js",
+		"/C/Dropbox/react-tutorial-master/index.html",
+		"/C/Dropbox/react-tutorial-master/server.py",
+		"/C/Dropbox/react-15.0.2/helloword.html",
+		"/C/Dropbox/react-15.0.2/src/helloword.js",
+		"/C/Users/uapasha/fullstack/vagrant/django/django-stuff/example/jobs/some_testing.py",
+		"/C/Users/uapasha/fullstack/vagrant/django/django-stuff/example/persons/templates/persons.html",
+		"/C/Users/uapasha/fullstack/vagrant/django/django-stuff/example/jobs/import_jobs.py",
+		"/C/Users/uapasha/fullstack/vagrant/django/django-stuff/example/jobs/models.py",
+		"/C/Users/uapasha/fullstack/vagrant/django/django-stuff/example/persons/forms.py",
+		"/C/Users/uapasha/fullstack/vagrant/django/django-stuff/example/persons/urls.py",
+		"/C/Users/uapasha/fullstack/vagrant/django/django-stuff/example/jobs/views.py",
+		"/C/Users/uapasha/fullstack/vagrant/django/django-stuff/example/persons/import.py",
+		"/C/Users/uapasha/fullstack/vagrant/django/django-stuff/example/manage.py",
+		"/C/Users/uapasha/fullstack/vagrant/django/django-stuff/example/persons/import_jobs.py",
+		"/C/Dropbox/swdev/coachhelper/CH/pbrunko/homework2/rev_stats_json.py",
+		"/C/Users/uapasha/fullstack/vagrant/django/django-stuff/example/persons/admin.py",
+		"/C/Users/uapasha/fullstack/vagrant/django/django-stuff/example/jobs/import.py",
+		"/C/Users/uapasha/fullstack/vagrant/django/django-stuff/example/example/settings.py",
+		"/C/Users/uapasha/fullstack/vagrant/django/django-stuff/example/persons/apps.py",
+		"/C/Users/uapasha/fullstack/vagrant/django/django-stuff/example/jobs/__init__.py",
+		"/C/Users/uapasha/fullstack/vagrant/django/django-stuff/example/persons/__init__.py",
+		"/C/Users/uapasha/fullstack/vagrant/django/django-stuff/example/jobs/admin.py",
+		"/C/Dropbox/swdev/uk.json",
+		"/C/Dropbox/a_ds/APlusB.py",
+		"/C/Dropbox/a&ds/_a7cffb40aebb7296fde0562f36e58889_APlusB.py",
+		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/blog/templates/blog/post_list.html",
+		"/c/users/uapasha/appdata/local/temp/rsub-d4ptxx/detail.html",
+		"/c/users/uapasha/appdata/local/temp/rsub-f__zkq/urls.py",
+		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/blog/urls.py",
+		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/blog/models.py",
+		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/microblog/templates/_layouts/base.html",
+		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/blog/templates/blog/post_detail.html",
+		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/blog/templates/blog/comments.html",
+		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/blog/views.py",
+		"/c/users/uapasha/appdata/local/temp/rsub-fbrdcs/views.py",
+		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/microblog/urls.py",
+		"/c/users/uapasha/appdata/local/temp/rsub-yvrdxz/urls.py",
+		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/blog/admin.py",
+		"/C/Users/uapasha/AppData/Roaming/Sublime Text 2/Packages/rsub/rsub.sublime-settings",
+		"/c/users/uapasha/appdata/local/temp/rsub-zac2e0/urls.py",
+		"/c/users/uapasha/appdata/local/temp/rsub-9e1g0n/views.py",
+		"/c/users/uapasha/appdata/local/temp/rsub-bic2dd/urls.py",
+		"/c/users/uapasha/appdata/local/temp/rsub-nc_vzf/views.py",
+		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/microblog/settings/base.py",
+		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/microblog/views.py",
+		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/microblog/templates/index.html",
+		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/requirements.txt",
+		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/blog/templates/post_list.html",
+		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/blog/templates/post_detail.html",
+		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/microblog/settings/__init__.py",
+		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/microblog/settings/local.py",
+		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/.gitignore",
+		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/Procfile",
+		"/C/Users/uapasha/fullstack/vagrant/start_with_django/procfile",
+		"/C/Users/uapasha/fullstack/vagrant/start_with_django/.gitignore",
+		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/microblog/settings.py",
+		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/manage.py",
+		"/C/Users/uapasha/fullstack/vagrant/exchange/taabs/django-polls/MANIFEST.in",
+		"/C/Users/uapasha/fullstack/vagrant/exchange/taabs/django-polls/README.rst",
+		"/C/Users/uapasha/fullstack/vagrant/exchange/taabs/django-polls/setup.py",
+		"/C/Users/uapasha/fullstack/vagrant/exchange/taabs/django-polls/LICENSE",
+		"/c/users/uapasha/appdata/local/temp/rsub-fgruhl/settings.py",
+		"/c/users/uapasha/appdata/local/temp/rsub-5vbncf/style.css",
+		"/C/Users/uapasha/fullstack/vagrant/uadacity/stack_fund/webserver.py",
+		"/c/users/uapasha/appdata/local/temp/rsub-luhbm0/index.html",
+		"/c/users/uapasha/appdata/local/temp/rsub-rtsr_p/manage.py",
+		"/c/users/uapasha/appdata/local/temp/rsub-bffabr/tests.py",
+		"/c/users/uapasha/appdata/local/temp/rsub-apgqru/views.py",
+		"/c/users/uapasha/appdata/local/temp/rsub-pzojzz/models.py",
+		"/c/users/uapasha/appdata/local/temp/rsub-0pjaiv/views.py",
+		"/c/users/uapasha/appdata/local/temp/rsub-decclj/tests.py",
+		"/c/users/uapasha/appdata/local/temp/rsub-urrdpg/urls.py",
+		"/c/users/uapasha/appdata/local/temp/rsub-bjrw3v/urls.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Posts",
+			"clos",
+			"legend",
+			"img",
+			"h1",
+			"avat",
+			"hell",
+			"text",
+			"image_id",
+			"Image",
+			"movi",
+			"onCommentSubmit",
+			"Submit",
+			"CommentSubmit",
+			"endblock",
+			"base",
+			"static",
+			"top_fi",
+			"prin",
+			"print",
+			"ans['top_five']",
+			"===",
+			"coin",
+			"name",
+			"date",
+			"selectedType",
+			"loadMore",
+			"cons",
+			"pkdx_id",
+			"objects",
+			"rename",
+			"server",
+			"join",
+			"go",
+			"Post",
+			"wsgi",
+			"time",
+			"HTML_WRAP"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"top_five"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lib/router.js",
+					"settings":
+					{
+						"buffer_size": 675,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								472,
+								472
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/views/posts/post_page.html",
+					"settings":
+					{
+						"buffer_size": 59,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59,
+								59
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/views/application/layout.html",
+					"settings":
+					{
+						"buffer_size": 351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/main.js",
+					"settings":
+					{
+						"buffer_size": 29,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								29
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "client/views/includes/loading.html",
+					"settings":
+					{
+						"buffer_size": 56,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "client/views/posts/post_item.html",
+					"settings":
+					{
+						"buffer_size": 319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 153.0,
+	"status_bar_visible": true
+}
