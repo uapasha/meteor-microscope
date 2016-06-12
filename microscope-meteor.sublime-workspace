@@ -4,8 +4,52 @@
 		"selected_items":
 		[
 			[
+				"pos",
+				"post"
+			],
+			[
+				"usr",
+				"userId"
+			],
+			[
 				"fun",
 				"function"
+			],
+			[
+				"po",
+				"postProperties"
+			],
+			[
+				"pa",
+				"pause"
+			],
+			[
+				"loa",
+				"loading"
+			],
+			[
+				"posts",
+				"posts"
+			],
+			[
+				"post",
+				"postPage"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"re",
+				"requireLogin"
+			],
+			[
+				"on",
+				"onBeforeAction"
+			],
+			[
+				"nav",
+				"navbar"
 			],
 			[
 				"a",
@@ -18,10 +62,6 @@
 			[
 				"co",
 				"count"
-			],
-			[
-				"pos",
-				"postData〔variable〕"
 			],
 			[
 				"typ",
@@ -42,10 +82,6 @@
 			[
 				"J",
 				"JsonResponse"
-			],
-			[
-				"re",
-				"require"
 			],
 			[
 				"cons",
@@ -148,10 +184,6 @@
 				"image"
 			],
 			[
-				"loa",
-				"loadingMore"
-			],
-			[
 				"lo",
 				"loadingMore"
 			],
@@ -162,10 +194,6 @@
 			[
 				"_",
 				"_onEndReached"
-			],
-			[
-				"on",
-				"onEndReached"
 			],
 			[
 				"I",
@@ -352,10 +380,6 @@
 				"models"
 			],
 			[
-				"po",
-				"post"
-			],
-			[
 				"PO",
 				"POST"
 			],
@@ -452,10 +476,6 @@
 				"create_question"
 			],
 			[
-				"pa",
-				"Past"
-			],
-			[
 				"QUe",
 				"Question"
 			],
@@ -494,79 +514,11 @@
 			[
 				"datet",
 				"datetime"
-			],
-			[
-				"f",
-				"from"
-			],
-			[
-				"home",
-				"home"
-			],
-			[
-				"DE",
-				"DetailView"
-			],
-			[
-				"ques",
-				"question"
-			],
-			[
-				"htt",
-				"HttpResponse"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "lib/router.js",
-			"settings":
-			{
-				"buffer_size": 675,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "client/views/posts/post_page.html",
-			"settings":
-			{
-				"buffer_size": 59,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "client/views/application/layout.html",
-			"settings":
-			{
-				"buffer_size": 351,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "client/main.js",
-			"settings":
-			{
-				"buffer_size": 29,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "client/views/includes/loading.html",
-			"settings":
-			{
-				"buffer_size": 56,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "client/views/posts/post_item.html",
-			"settings":
-			{
-				"buffer_size": 319,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -608,17 +560,28 @@
 	},
 	"file_history":
 	[
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/templates/includes/access_denied.html",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_item.html",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_submit.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_edit.html",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/lib/permissions.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_item.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/lib/router.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_edit.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/collections/posts.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/lib/collections/posts.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_submit.html",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/includes/header.html",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_list.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/helpers/config.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/application/layout.html",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/includes/loading.html",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/main.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_page.html",
 		"/C/Users/uapasha/fullstack/vagrant/microscope/client/main.html",
 		"/C/Users/uapasha/fullstack/vagrant/microscope/server/fixtures.js",
-		"/C/Users/uapasha/fullstack/vagrant/microscope/lib/router.js",
-		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/application/layout.html",
-		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_list.js",
 		"/C/Users/uapasha/fullstack/vagrant/microscope/server/publications.js",
-		"/C/Users/uapasha/fullstack/vagrant/microscope/client/main.js",
 		"/C/Users/uapasha/fullstack/vagrant/microscope/client/stylesheets/style.css",
-		"/C/Users/uapasha/fullstack/vagrant/microscope/lib/collections/posts.js",
-		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_item.js",
-		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_item.html",
 		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_list.html",
 		"/C/Users/uapasha/fullstack/vagrant/microscope/client/main.css",
 		"/C/Users/uapasha/fullstack/vagrant/microscope/server/main.js",
@@ -724,18 +687,7 @@
 		"/C/Users/uapasha/fullstack/vagrant/exchange/taabs/django-polls/README.rst",
 		"/C/Users/uapasha/fullstack/vagrant/exchange/taabs/django-polls/setup.py",
 		"/C/Users/uapasha/fullstack/vagrant/exchange/taabs/django-polls/LICENSE",
-		"/c/users/uapasha/appdata/local/temp/rsub-fgruhl/settings.py",
-		"/c/users/uapasha/appdata/local/temp/rsub-5vbncf/style.css",
-		"/C/Users/uapasha/fullstack/vagrant/uadacity/stack_fund/webserver.py",
-		"/c/users/uapasha/appdata/local/temp/rsub-luhbm0/index.html",
-		"/c/users/uapasha/appdata/local/temp/rsub-rtsr_p/manage.py",
-		"/c/users/uapasha/appdata/local/temp/rsub-bffabr/tests.py",
-		"/c/users/uapasha/appdata/local/temp/rsub-apgqru/views.py",
-		"/c/users/uapasha/appdata/local/temp/rsub-pzojzz/models.py",
-		"/c/users/uapasha/appdata/local/temp/rsub-0pjaiv/views.py",
-		"/c/users/uapasha/appdata/local/temp/rsub-decclj/tests.py",
-		"/c/users/uapasha/appdata/local/temp/rsub-urrdpg/urls.py",
-		"/c/users/uapasha/appdata/local/temp/rsub-bjrw3v/urls.py"
+		"/c/users/uapasha/appdata/local/temp/rsub-fgruhl/settings.py"
 	],
 	"find":
 	{
@@ -753,6 +705,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"+",
 			"Posts",
 			"clos",
 			"legend",
@@ -798,6 +751,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"",
 			"top_five"
 		],
 		"reverse": false,
@@ -809,172 +763,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "lib/router.js",
-					"settings":
-					{
-						"buffer_size": 675,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								472,
-								472
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "client/views/posts/post_page.html",
-					"settings":
-					{
-						"buffer_size": 59,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								59,
-								59
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "client/views/application/layout.html",
-					"settings":
-					{
-						"buffer_size": 351,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								183,
-								183
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "client/main.js",
-					"settings":
-					{
-						"buffer_size": 29,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3,
-								29
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "client/views/includes/loading.html",
-					"settings":
-					{
-						"buffer_size": 56,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								56,
-								56
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "client/views/posts/post_item.html",
-					"settings":
-					{
-						"buffer_size": 319,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								159,
-								159
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
