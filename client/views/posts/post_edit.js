@@ -13,7 +13,7 @@ Template.postEdit.events({
             postProperties},
             function(error){
                 if (error) {
-                    alert(error.reason);
+                    Errors.throw(error.reason);
                 } else {
                     Router.go('postPage', {_id: currentPostId});
                 }
@@ -26,7 +26,7 @@ Template.postEdit.events({
         if(confirm ('Delete this post?')) {
             var currentPostId = this._id;
             Posts.remove(currentPostId);
-            Router.go('postsList');
+            Router.go('home');
         }
     }    
 });

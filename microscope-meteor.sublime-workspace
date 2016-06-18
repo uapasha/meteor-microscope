@@ -4,24 +4,104 @@
 		"selected_items":
 		[
 			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
 				"pos",
-				"post"
+				"postSub"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"up",
+				"upvoters"
+			],
+			[
+				"po",
+				"postId"
+			],
+			[
+				"Pos",
+				"Posts"
+			],
+			[
+				"si",
+				"subscribe"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"post",
+				"posts"
+			],
+			[
+				"fin",
+				"findOptions"
+			],
+			[
+				"find",
+				"find"
+			],
+			[
+				"next",
+				"nextPath"
+			],
+			[
+				"Po",
+				"PostsListController"
+			],
+			[
+				"findO",
+				"findOptions"
+			],
+			[
+				"fi",
+				"findOptions"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"no",
+				"notification"
+			],
+			[
+				"co",
+				"comment"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"th",
+				"throwError"
 			],
 			[
 				"usr",
 				"userId"
-			],
-			[
-				"fun",
-				"function"
-			],
-			[
-				"po",
-				"postProperties"
-			],
-			[
-				"pa",
-				"pause"
 			],
 			[
 				"loa",
@@ -30,18 +110,6 @@
 			[
 				"posts",
 				"posts"
-			],
-			[
-				"post",
-				"postPage"
-			],
-			[
-				"use",
-				"user"
-			],
-			[
-				"re",
-				"requireLogin"
 			],
 			[
 				"on",
@@ -58,10 +126,6 @@
 			[
 				"fu",
 				"function"
-			],
-			[
-				"co",
-				"count"
 			],
 			[
 				"typ",
@@ -200,10 +264,6 @@
 				"IMAGE_SIZE"
 			],
 			[
-				"con",
-				"console"
-			],
-			[
 				"i",
 				"imagePressed"
 			],
@@ -272,10 +332,6 @@
 				"renderMovie"
 			],
 			[
-				"t",
-				"title"
-			],
-			[
 				"err",
 				"err"
 			],
@@ -294,10 +350,6 @@
 			[
 				"get",
 				"getInitialState"
-			],
-			[
-				"th",
-				"this"
 			],
 			[
 				"e",
@@ -396,10 +448,6 @@
 				"objects"
 			],
 			[
-				"com",
-				"comments_list"
-			],
-			[
 				"Comment",
 				"Comment"
 			],
@@ -414,10 +462,6 @@
 			[
 				"au",
 				"auto_now_add"
-			],
-			[
-				"Pos",
-				"PostManager"
 			],
 			[
 				"DI",
@@ -470,55 +514,19 @@
 			[
 				"qu",
 				"question_text"
-			],
-			[
-				"crea",
-				"create_question"
-			],
-			[
-				"QUe",
-				"Question"
-			],
-			[
-				"la",
-				"latest_question_list"
-			],
-			[
-				"pub",
-				"pub_date"
-			],
-			[
-				"time",
-				"timedelta"
-			],
-			[
-				"pu",
-				"published"
-			],
-			[
-				"tim",
-				"time"
-			],
-			[
-				"ol",
-				"old_question"
-			],
-			[
-				"ti",
-				"time"
-			],
-			[
-				"wh",
-				"whose"
-			],
-			[
-				"datet",
-				"datetime"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "client/views/posts/post_list.js",
+			"settings":
+			{
+				"buffer_size": 204,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -560,31 +568,48 @@
 	},
 	"file_history":
 	[
-		"/C/Users/uapasha/fullstack/vagrant/microscope/client/templates/includes/access_denied.html",
-		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_item.html",
-		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_submit.js",
-		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_edit.html",
-		"/C/Users/uapasha/fullstack/vagrant/microscope/lib/permissions.js",
-		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_item.js",
-		"/C/Users/uapasha/fullstack/vagrant/microscope/lib/router.js",
 		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_edit.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/includes/header.js",
 		"/C/Users/uapasha/fullstack/vagrant/microscope/collections/posts.js",
-		"/C/Users/uapasha/fullstack/vagrant/microscope/lib/collections/posts.js",
-		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_submit.html",
 		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/includes/header.html",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/server/fixtures.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_list.html",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/lib/router.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/helpers/handlebars.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_item.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_item.html",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/templates/notifications/notifications.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/collections/notifications.js",
 		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_list.js",
-		"/C/Users/uapasha/fullstack/vagrant/microscope/client/helpers/config.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/templates/notifications/notifications.html",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/server/publications.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/lib/permissions.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/lib/collections/posts.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/collections/comments.js",
 		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/application/layout.html",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_submit.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/packages/errors/errors_list.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/packages/errors/errors.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_submit.html",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/includes/errors.html",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/helpers/errors.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/packages/errors/errors_list.html",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/includes/errors.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/comments/comments_submit.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/comments/comments_submit.html",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/comments/comments.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_page.html",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/server/main.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_page.js",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/comments/comment.html",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/templates/includes/access_denied.html",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_edit.html",
+		"/C/Users/uapasha/fullstack/vagrant/microscope/client/helpers/config.js",
 		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/includes/loading.html",
 		"/C/Users/uapasha/fullstack/vagrant/microscope/client/main.js",
-		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_page.html",
 		"/C/Users/uapasha/fullstack/vagrant/microscope/client/main.html",
-		"/C/Users/uapasha/fullstack/vagrant/microscope/server/fixtures.js",
-		"/C/Users/uapasha/fullstack/vagrant/microscope/server/publications.js",
 		"/C/Users/uapasha/fullstack/vagrant/microscope/client/stylesheets/style.css",
-		"/C/Users/uapasha/fullstack/vagrant/microscope/client/views/posts/post_list.html",
 		"/C/Users/uapasha/fullstack/vagrant/microscope/client/main.css",
-		"/C/Users/uapasha/fullstack/vagrant/microscope/server/main.js",
 		"/C/Users/uapasha/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
 		"/C/Dropbox/kottans/js-kottans-hw/hw2/form.html",
 		"/C/Dropbox/kottans/js-kottans-hw/.gitignore",
@@ -670,24 +695,7 @@
 		"/c/users/uapasha/appdata/local/temp/rsub-bic2dd/urls.py",
 		"/c/users/uapasha/appdata/local/temp/rsub-nc_vzf/views.py",
 		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/microblog/settings/base.py",
-		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/microblog/views.py",
-		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/microblog/templates/index.html",
-		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/requirements.txt",
-		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/blog/templates/post_list.html",
-		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/blog/templates/post_detail.html",
-		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/microblog/settings/__init__.py",
-		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/microblog/settings/local.py",
-		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/.gitignore",
-		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/Procfile",
-		"/C/Users/uapasha/fullstack/vagrant/start_with_django/procfile",
-		"/C/Users/uapasha/fullstack/vagrant/start_with_django/.gitignore",
-		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/microblog/settings.py",
-		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/manage.py",
-		"/C/Users/uapasha/fullstack/vagrant/exchange/taabs/django-polls/MANIFEST.in",
-		"/C/Users/uapasha/fullstack/vagrant/exchange/taabs/django-polls/README.rst",
-		"/C/Users/uapasha/fullstack/vagrant/exchange/taabs/django-polls/setup.py",
-		"/C/Users/uapasha/fullstack/vagrant/exchange/taabs/django-polls/LICENSE",
-		"/c/users/uapasha/appdata/local/temp/rsub-fgruhl/settings.py"
+		"/C/Users/uapasha/fullstack/vagrant/start_with_django/microblog/microblog/views.py"
 	],
 	"find":
 	{
@@ -705,6 +713,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"return",
 			"+",
 			"Posts",
 			"clos",
@@ -763,8 +772,36 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "client/views/posts/post_list.js",
+					"settings":
+					{
+						"buffer_size": 204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
